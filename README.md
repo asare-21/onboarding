@@ -13,6 +13,3 @@ Just tried my hands on this design i found on dribble
 <img src="https://user-images.githubusercontent.com/52238457/196501248-c2dd6d1a-1785-4eb7-b8d0-f0e63898bf0b.png" />
 
 
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
