@@ -4,6 +4,7 @@ Just tried my hands on this design i found on dribble
 
 ## Design
 [Dribble](https://dribbble.com/shots/11082826-Workout-App-Onboarding-Screens)
+<img width="992" alt="Screenshot 2022-10-18 at 16 21 15" src="https://user-images.githubusercontent.com/52238457/196502070-4c8a109e-3478-4211-9fd1-dc1dfa73af1a.png">
 
 ## Screenshots
 <div class="row">
